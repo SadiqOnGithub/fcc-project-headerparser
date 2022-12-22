@@ -1,3 +1,3 @@
-# Timestamp Microservice
+# Request Header Parser Microservice
 
 This is a project submission to the freeCodeCamp's "Back End Development and APIs Projects".
